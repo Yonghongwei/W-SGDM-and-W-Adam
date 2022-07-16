@@ -1,2 +1,2 @@
 # W-SGDM-and-W-Adam-DNN-optimizers
-Embedding Feature Whitening into Deep NeuralNetworks Optimizer
+An Embedded Feature Whitening Approach to Deep Neural Network Optimization
