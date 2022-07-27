@@ -10,5 +10,6 @@ Compared with the feature normalization methods that are widely used in deep neu
 ## Proposed Algorithm
 * EFW algorithm 
 <div  align="center"><img src="https://github.com/Yonghongwei/W-SGDM-and-W-Adam/blob/main/EFW_algorithm.png" height="75%" width="75%" alt="EFW algorithm"/></div>
+
 * WSGDM and WAdam algorithm
 <div  align="center"><img src="https://github.com/Yonghongwei/W-SGDM-and-W-Adam/blob/main/WSGDM_WAdam.png" height="75%" width="75%" alt="WSGDM and WAdam algorithm"/></div>
