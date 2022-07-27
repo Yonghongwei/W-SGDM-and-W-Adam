@@ -13,3 +13,12 @@ Compared with the feature normalization methods that are widely used in deep neu
 
 * WSGDM and WAdam algorithm
 <div  align="center"><img src="https://github.com/Yonghongwei/W-SGDM-and-W-Adam/blob/main/WSGDM_WAdam.png" height="75%" width="75%" alt="WSGDM and WAdam algorithm"/></div>
+
+## Citation
+@inproceedings{Hongwei2022EFW,
+  title={An Embedded Feature Whitening Approach to Deep Neural Network Optimization},
+  author={Hongwei Yong, Lei Zhang},
+  booktitle={European Conference on Computer Vision},
+  year={2022}
+}
+
